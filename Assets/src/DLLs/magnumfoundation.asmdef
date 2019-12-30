@@ -1,0 +1,14 @@
+{
+    "name": "magnumfoundation",
+    "references": [],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "MagnumFoudation.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

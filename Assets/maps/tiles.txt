@@ -1,0 +1,1 @@
+{"gemCount":0,"characterFileNames":[],"triggerdata":[],"graphicTiles":[],"graphicTilesMiddle":[],"graphicTilesTop":[],"objectdata":[],"tilesdata":[],"itemdat":[],"spawnPoint":{"x":0.0,"y":0.0},"mapsize":{"x":0.0,"y":0.0},"FlagNameCheck":"","mapscript":"","Map_Script":[],"map_script_labels":[],"id":0,"name":"","zone":""}
